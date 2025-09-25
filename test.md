@@ -1,3 +1,1 @@
-This is an sample file for testing
-
-Add new line for testing.
+This is an sample file for testinga
